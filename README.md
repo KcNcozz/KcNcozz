@@ -2,7 +2,7 @@
 
 ### An experienced Javascript developer
 
-- 📝 I regularly write articles on **[https://kcncozz.github.io/site-blog/](https://kcnco7.github.io/site-blog/)**
+- 📝 I regularly write articles on **[https://kcncozz.github.io/site-blog/](https://kcncozz.github.io/site-blog/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -12,7 +12,7 @@ I build web applications and AI agents, from frontend interfaces and backend API
 - 🗄️ Databases & Messaging: **MySQL, PostgreSQL, Redis, RabbitMQ**
 - 🛠️ DevOps & Development Tools: **Docker, Nginx, Jenkins, Linux, Git, Postman**
 - 🖌️ Design & 3D: **Blender, Photoshop**
-- 📝 I regularly write articles on **[https://kcnco7.github.io/site-blog/](https://kcnco7.github.io/site-blog/)**
+- 📝 I regularly write articles on **[Knowledge！](https://kcncozz.github.io/site-blog/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
